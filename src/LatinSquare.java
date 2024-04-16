@@ -9,7 +9,6 @@ public class LatinSquare {
     public static int targetCheckSum1(int rowSize) {
         int sum = (rowSize * (rowSize + 1)) / 2;
         return sum;
-
     }
 
     /**
